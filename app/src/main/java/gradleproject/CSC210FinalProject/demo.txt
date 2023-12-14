@@ -1,0 +1,20 @@
+Demo:
+
+Step-by-step:
+1. Run the terminal from the ReadFile file.
+2. Enter your source node in the terminal and press enter.
+3. Statistics for the graph are printed in the terminal: the number of nodes, the number of edges, the average degree, and the highest degree.
+4. One new window will open - a graph representing the dataset.
+5. Enter your target node in the terminal and press enter.
+6. A new line will be printed in the terminal: the path of nodes between the source and target nodes.
+7. Another new window will open - a graph with an animation demonstrating the path from the source node to the target node.
+
+Example:
+Source node: 0
+Number of nodes: 14
+Number of edges: 14
+Average degree: 2.0
+Highest degree: 3.0
+Target node: 13
+Path from 0 to 13: 0, 1, 23, 13
+The nodes will flash blue and red in the order the path travels through the listed nodes to get from the source to target nodes.
