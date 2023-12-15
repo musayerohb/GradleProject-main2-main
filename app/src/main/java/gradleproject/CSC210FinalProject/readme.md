@@ -12,6 +12,10 @@ https://www.baeldung.com/java-dijkstra
 
 https://www.youtube.com/watch?v=XEb7_z5dG3c
 
+https://www.simplilearn.com/tutorials/java-tutorial/reverse-a-string-in-java
+
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+
 
 Journal:
 
